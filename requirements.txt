@@ -1,0 +1,5 @@
+langchain==0.0.176
+streamlit==1.15.0
+transformers==4.25.0
+chromadb==0.3.25
+huggingface_hub==0.13.4
